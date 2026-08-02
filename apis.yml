@@ -1,19 +1,56 @@
 aid: twig
 name: Twig
-description: Twig is a company surfaced as a portfolio company of seedcamp and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Twig (twig.bio) is a UK biotechnology company using artificial intelligence and machine
+  learning to design sustainable bioengineered ingredients — "AI defined ingredients that
+  don't cost the earth." Its proprietary twig:tech platform pairs bio:drive, an AI/ML design
+  engine that generates and scores novel microbe designs across pathway and enzyme selection,
+  gene edits, and expression levels, with grow:bot, an automated high-throughput lab that
+  builds and tests those designs and feeds every result back into the next design cycle. Twig
+  aims to cultivate clean ingredients from bacteria via fermentation rather than extracting
+  them from the ground or sea or producing them with fossil fuels. Twig is a Seedcamp
+  portfolio company and is backed by additional early-stage investors. This profile was added
+  to the API Evangelist network from a VC portfolio lead; Twig currently exposes no public
+  developer API, SDK, or documentation surface — its api./app. subdomains resolve to internal
+  infrastructure — so this pass captures company identity and a domain-security probe only.
 url: https://raw.githubusercontent.com/api-evangelist/twig/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - seedcamp
+- gaingels
+- project-a
+- zerocarbon-vc
+- kapital
+- uk-innovation-science-seed-fund
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-api-surface: none
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://twig.bio/wp-content/themes/twig/build/images/favicon/apple-touch-icon.png
 tags:
 - Company
+- Biotechnology
+- Bioengineering
+- Synthetic Biology
+- Artificial Intelligence
+- Machine Learning
+- Sustainability
+- Ingredients
+- Fermentation
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -22,4 +59,23 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://twig.bio
+  url: https://twig.bio
+- type: About
+  url: https://twig.bio/about/
+- type: Platform
+  url: https://twig.bio/twigtech/
+- type: CaseStudies
+  url: https://twig.bio/case-studies/
+- type: Support
+  url: https://twig.bio/contact/
+- type: PrivacyPolicy
+  url: https://twig.bio/privacy-policy/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/twigbio
+- type: DomainSecurity
+  url: security/twig-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
