@@ -64,6 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Twig is a company surfaced as a portfolio company of seedcamp and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Twig (twig.bio) is a UK biotechnology company using artificial intelligence and machine learning to design sustainable bioengineered ingredients — "AI defined ingredients that don't cost the earth." Its proprietary twig:tech platform pairs bio:drive, an AI/ML design engine that generates and scores novel microbe designs across pathway and enzyme selection, gene edits, and expression levels, with grow:bot, an automated high-throughput lab that builds and tests those designs and feeds every result back into the next design cycle. Twig aims to cultivate clean ingredients from bacteria via fermentation rather than extracting them from the ground or sea or producing them with fossil fuels. Twig is a Seedcamp portfolio company and is backed by additional early-stage investors. This profile was added to the API Evangelist network from a VC portfolio lead; Twig currently exposes no public developer API, SDK, or documentation surface — its api./app. subdomains resolve to internal infrastructure — so this pass captures company identity and a domain-security probe only.
 
-Backed by: seedcamp — http://twig.bio
+**Areas:** Company · Biotechnology · Bioengineering · Synthetic Biology · Artificial Intelligence · Machine Learning · Sustainability · Ingredients · Fermentation
+
+## Twig on APIs.io
+
+Everything profiled for Twig is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/twig/](https://apis.io/providers/twig/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Twig Domain Security](https://apis.io/security/twig/twig-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://twig.bio)
+- [Support](https://twig.bio/contact/)
+- [Privacy policy](https://twig.bio/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 7.0** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 10.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.1** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/twig/](https://apis.io/providers/twig/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Twig: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/twig/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
